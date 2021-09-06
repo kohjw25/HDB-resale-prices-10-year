@@ -7,6 +7,6 @@
 5) Linear regression, Ridge regression and Random Forest Models were applied to identify attributes that influence resale prices the most
 
 References:
-https://github.com/teyang-lau/HDB_Resale_Prices/
-https://medium.com/@seinchyi/machine-learning-for-singapore-resale-hdb-pt-1-data-preparation-8cdc2df8e24f
-https://medium.com/@michael.wy.ong/web-scrape-geospatial-data-analyse-singapores-property-price-part-i-276caba320b
+- https://github.com/teyang-lau/HDB_Resale_Prices/
+- https://medium.com/@seinchyi/machine-learning-for-singapore-resale-hdb-pt-1-data-preparation-8cdc2df8e24f
+- https://medium.com/@michael.wy.ong/web-scrape-geospatial-data-analyse-singapores-property-price-part-i-276caba320b
